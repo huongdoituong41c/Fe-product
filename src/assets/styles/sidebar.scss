@@ -1,0 +1,17 @@
+.sidebar {
+    position: sticky;
+    top: 40rem;
+    left: 0;
+    color: white;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.container {
+    display: inline-flex;
+}
+
+.content {
+    flex-grow: 0;
+    flex-shrink: 0;
+}

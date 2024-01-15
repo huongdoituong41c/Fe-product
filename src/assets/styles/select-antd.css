@@ -1,0 +1,8 @@
+.ant-select-selector {
+    border: none !important
+}
+
+.ant-select-selection-item {
+    font-size: 16px !important;
+    font-weight: 500;
+}

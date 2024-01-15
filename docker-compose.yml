@@ -1,0 +1,6 @@
+version: '3'
+services:
+  app:
+    image: hotel-nokia-training:v1
+    ports: 
+      - "5173:5173"

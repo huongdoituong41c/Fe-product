@@ -1,0 +1,31 @@
+{
+  "hotelManagement": [
+    {
+      "id": 1,
+      "name": "Hotel B",
+      "image": "imgdeptrai.png",
+      "address": "456 Oak Avenue",
+      "phoneNumber": "5555678",
+      "description": "hotelB@example.com",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "sang",
+      "image": "1672286253180 (1).JPEG",
+      "address": "asd",
+      "phoneNumber": "34423",
+      "description": "dsadvwq",
+      "status": "fdsfd"
+    },
+    {
+      "id": 5,
+      "name": "sang123232",
+      "image": "a Nhan.png",
+      "address": "ngo mayeqwe",
+      "phoneNumber": "1232545423",
+      "description": "123",
+      "status": "single"
+    }
+  ]
+}
